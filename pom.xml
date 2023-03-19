@@ -18,6 +18,7 @@
         <module>Spring-security-DCB</module>
         <module>OAuth-authorization-server</module>
         <module>oauth-resource-server</module>
+        <module>spring-security-jwt</module>
     </modules>
 
 </project>

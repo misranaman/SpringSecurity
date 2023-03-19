@@ -10,6 +10,7 @@
         <module name="OAuth-authorization-server" />
         <module name="Spring-security-DCB" />
         <module name="oauth-resource-server" />
+        <module name="spring-seurity-demo" />
       </profile>
     </annotationProcessing>
   </component>
@@ -18,6 +19,7 @@
       <module name="OAuth-authorization-server" options="-parameters" />
       <module name="Spring-security-DCB" options="-parameters" />
       <module name="oauth-resource-server" options="-parameters" />
+      <module name="spring-seurity-demo" options="-parameters" />
     </option>
   </component>
 </project>
